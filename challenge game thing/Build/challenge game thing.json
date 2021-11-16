@@ -1,0 +1,16 @@
+{
+"companyName": "max holcomb",
+"productName": "Unit 1 - Player Control",
+"productVersion": "1.0",
+"dataUrl": "challenge game thing.data.unityweb",
+"wasmCodeUrl": "challenge game thing.wasm.code.unityweb",
+"wasmFrameworkUrl": "challenge game thing.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
